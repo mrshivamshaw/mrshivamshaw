@@ -3,16 +3,16 @@
 <h1 align="center">Hey, I'm Shivam Shaw <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center">Fullstack Web Developer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshaw07&label=Profile%20views&color=0e75b6&style=flat" alt="shivam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshivamshaw&label=Profile%20views&color=0e75b6&style=flat" alt="shivam" /> </p>
 <!-- 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamshaw07&theme=dracula" alt="shivamshaw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrshivamshaw&theme=dracula" alt="shivamshaw" /></a> </p>
  -->
  
 <img src="https://user-images.githubusercontent.com/71402528/126039381-d678d754-b37f-4ee6-a6c8-102444575094.png" height="200px" width="250px" alt="illustration" align="left">
 
  
-<a href="https://twitter.com/shivamshaw007" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/shivam-shaw/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Shivam, I make elegantly professional 🌍 web apps for a living. I have a soft spot for technology and communities, Software Development, Developer Relations 💖! You can find my resume in my [**Portfolio**](https://shivam-eng.vercel.app/). I'm working on web development projects on GitHub for everybody to use which you can find here!  Nowadays, I’m learning NextJS and  NodeJS. I regularly practice DSA questions & here is the  [**Leetcode**](https://leetcode.com/shivamshaw07/) profile and I'm always up for quick coding brainstorming sessions! I am an open source advocate.! <br>
+<a href="https://twitter.com/mrshivamshaw" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/shivam-shaw/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+Hey! I'm Shivam, I make elegantly professional 🌍 web apps for a living. I have a soft spot for technology and communities, Software Development, Developer Relations 💖! You can find my resume in my [**Portfolio**](https://shivam-eng.vercel.app/). I'm working on web development projects on GitHub for everybody to use which you can find here!  Nowadays, I’m learning NextJS and  NodeJS. I regularly practice DSA questions & here is the  [**Leetcode**](https://leetcode.com/mrshivamshaw/) profile and I'm always up for quick coding brainstorming sessions! I am an open source advocate.! <br>
 ✈️ Hire me for remote work & internships [shivamshaw9005@gmail.com](mailto:shivamshaw9005@gmail.com)
 
 - ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
@@ -61,6 +61,6 @@ Open-Souce Contributer at GirlScript Foundation.
 <br><br><br>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=archishmansengupta&show_icons=true&locale=en&layout=compact" height="195" width="495" alt="archishmansengupta" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamshaw07&show_icons=true&locale=en" alt="shivam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshivamshaw&show_icons=true&locale=en" alt="shivam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamshaw07&" alt="shivam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshivamshaw&" alt="shivam" /></p>
