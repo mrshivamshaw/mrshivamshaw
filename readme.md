@@ -1,66 +1,152 @@
+<div align="center">
 
+<!-- Animated header with typing effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam%20Kumar%20Shaw&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20Fullstack%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<h1 align="center">Hey, I'm Shivam Shaw <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h2 align="center">Fullstack Web Developer</h2>
+<!-- Dynamic typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer+%F0%9F%9A%80;AI+%26+GenAI+Builder+%F0%9F%A4%96;Django+%7C+Next.js+%7C+FastAPI+Dev;Open+Source+Advocate+%F0%9F%8C%9F;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshivamshaw&label=Profile%20views&color=0e75b6&style=flat" alt="shivam" /> </p>
-<!-- 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrshivamshaw&theme=dracula" alt="shivamshaw" /></a> </p>
- -->
- 
-<img src="https://user-images.githubusercontent.com/71402528/126039381-d678d754-b37f-4ee6-a6c8-102444575094.png" height="200px" width="250px" alt="illustration" align="left">
-
- 
-<a href="https://twitter.com/mrshivamshaw" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/mrshivamshaw/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Shivam, I make elegantly professional 🌍 web apps for a living. I have a soft spot for technology and communities, Software Development, Developer Relations 💖! You can find my resume in my [**Portfolio**](https://mrshivamshaw.vercel.app/). I'm working on web development projects on GitHub for everybody to use which you can find here!  Nowadays, I’m learning NextJS and  NodeJS. I regularly practice DSA questions & here is the  [**Leetcode**](https://leetcode.com/mrshivamshaw/) profile and I'm always up for quick coding brainstorming sessions! I am an open source advocate.! <br>
-✈️ Hire me for remote work & internships [shivamshaw9005@gmail.com](mailto:shivamshaw9005@gmail.com)
-
-- ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
-
-<!-- ## Experience
-Application Developer Intern,IEM -IEDC, Funded by DST, Govt. of India Kolkata <br>
-<br>
-Open-Souce Contributer at GirlScript Foundation.
-1st Year, 1st Sem SGPA: 9.55 -->
-
-<img src="https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif" height="400px" width="750px" alt="Twitter" align="center">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mrshivamshaw/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mrshivamshaw/" height="30" width="40" /></a>
-<a href="https://instagram.com/_mrshivamshaw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cluster_of_seven_stars" height="30" width="40" /></a>
+<!-- Social badges -->
+<p>
+  <a href="https://linkedin.com/in/mrshivamshaw"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shivamshaw9005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mrshivamshaw.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://leetcode.com/mrshivamshaw/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://github.com/mrshivamshaw"><img src="https://komarev.com/ghpvc/?username=mrshivamshaw&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/></a>
 </p>
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> -->
-## 🛠 &nbsp;Tech Stack
+</div>
 
-- 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+---
 
+## 🧑‍💻 About Me
 
-<br><br><br>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=archishmansengupta&show_icons=true&locale=en&layout=compact" height="195" width="495" alt="archishmansengupta" /></p> -->
+```typescript
+const shivam = {
+  location: "Dhanbad, India 🇮🇳",
+  currentRole: "IT Intern @ Keysight Technologies (Gurgaon)",
+  education: "B.Tech CSE @ Asansol Engineering College (2022–2026)",
+  interests: ["AI/GenAI", "Fullstack Dev", "RAG Systems", "No-Code Platforms"],
+  currentlyLearning: ["LLM Orchestration", "Advanced CI/CD", "Salesforce LWC"],
+  funFact: "I push doors that say PULL. Every. Single. Time. 🚪",
+  openTo: "Remote Internships & Collaborations → shivamshaw9005@gmail.com",
+};
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrshivamshaw&show_icons=true&locale=en" alt="shivam" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshivamshaw&" alt="shivam" /></p>
+## 🚀 Experience
+
+**💼 IT Intern** — [Keysight Technologies](https://www.keysight.com), Gurgaon *(Jan 2026 – Present)*
+> CI/CD with Jenkins · Salesforce · Lightning Web Components · Apex
+
+**🤖 SDE Intern** — Pave AI, Sharjah UAE *(Oct 2025 – Dec 2025)*
+> AI college counseling platform (Django + React + RAG) · **40% accuracy boost** · SAT analytics dashboard
+
+**⚙️ SDE Intern** — GrowthPurple Technologies, Hyderabad *(Aug 2024 – Jul 2025)*
+> Workflow automation (65% manual work reduction) · No-code LLM platform · AI-powered recruitment with Whisper speech transcription
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**AI / GenAI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 🛠 Stack | ✨ Highlight |
+|---|---|---|
+| [**AIQueryNet**](https://github.com/mrshivamshaw) | FastAPI · Next.js · Whisper · OpenAI | Voice-to-SQL interface — talk to your database naturally |
+| [**CodeGyaan**](https://github.com/mrshivamshaw) | React · Node.js · MongoDB · Razorpay | Full LMS with video hosting, OTP auth & payments |
+| **No-Code App Builder** | Next.js · Docker · LLM APIs | Prompts → fullstack web apps with one click |
+| **AI Recruitment Platform** | Django · Whisper · CV Analysis | Body behavior + speech AI ranking, 55% HR efficiency boost |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrshivamshaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshivamshaw&theme=tokyonight&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshivamshaw&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🏅 Achievements & Competitive Programming
+
+- 🥇 **GDGC AEC Competitive Programming Lead** — Selected through multi-round assessments; organized coding competitions & built CP community
+- 💡 **300+ problems solved** on LeetCode & GeeksForGeeks
+- 🎓 **90% in Higher Secondary** | CGPA: **7.52** at AEC
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrshivamshaw&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Awesome!
+
+**Open for:** Remote Internships · Collaborations · Open Source
+
+📧 [shivamshaw9005@gmail.com](mailto:shivamshaw9005@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://mrshivamshaw.vercel.app/) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/mrshivamshaw)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
