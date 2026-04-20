@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header with typing effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam%20Kumar%20Shaw&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20Fullstack%20Enthusiast&descAlignY=55&descSize=18"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam%20Kumar%20Shaw&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20Fullstack%20Enthusiast&descAlignY=55&descSize=18"/> -->
 
 <!-- Dynamic typing -->
 <a href="https://git.io/typing-svg">
