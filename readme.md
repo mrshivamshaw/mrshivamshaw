@@ -127,33 +127,27 @@ const shivam = {
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrshivamshaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=mrshivamshaw&theme=tokyonight&hide_border=true" />
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshivamshaw&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
 <br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshivamshaw&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=mrshivamshaw&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
-
 ---
-
+ 
 ## 📈 Contribution Graph
-
+ 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrshivamshaw&theme=tokyo-night&hide_border=true&area=true" />
 </div>
-
 ---
 
 <div align="center">
 
 ### 💬 Let's Connect & Build Something Awesome!
 
-**Open for:** Remote Internships · Collaborations · Open Source
+**Open for:** Remote Opportunity · Collaborations · Open Source
 
 📧 [shivamshaw9005@gmail.com](mailto:shivamshaw9005@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://mrshivamshaw.vercel.app/) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/mrshivamshaw)
 
