@@ -31,11 +31,10 @@
 const shivam = {
   location: "Dhanbad, India 🇮🇳",
   currentRole: "IT Intern @ Keysight Technologies (Gurgaon)",
-  education: "B.Tech CSE @ Asansol Engineering College (2022–2026)",
   interests: ["AI/GenAI", "Fullstack Dev", "RAG Systems", "No-Code Platforms"],
   currentlyLearning: ["LLM Orchestration", "Advanced CI/CD", "Salesforce LWC"],
   funFact: "I push doors that say PULL. Every. Single. Time. 🚪",
-  openTo: "Remote Internships & Collaborations → shivamshaw9005@gmail.com",
+  openTo: "Remote Opportunity & Collaborations → shivamshaw9005@gmail.com",
 };
 ```
 
