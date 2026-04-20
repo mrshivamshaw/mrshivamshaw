@@ -1,8 +1,12 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shivam+Shaw+👋;Software+Developer+🚀;AI+%26+GenAI+Builder+🤖;Django+%7C+Next.js+Enthusiast;Open+Source+Advocate+🌟" alt="Typing SVG" />
+<!-- Animated header with typing effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam%20Kumar%20Shaw&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20Fullstack%20Enthusiast&descAlignY=55&descSize=18"/>
 
+<!-- Dynamic typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer+%F0%9F%9A%80;AI+%26+GenAI+Builder+%F0%9F%A4%96;Django+%7C+Next.js+%7C+FastAPI+Dev;Open+Source+Advocate+%F0%9F%8C%9F;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
 <br/>
 
 <!-- Social badges -->
