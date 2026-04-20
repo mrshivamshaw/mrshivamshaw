@@ -1,21 +1,21 @@
 <div align="center">
 
-<!-- Animated header with typing effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shivam%20Kumar%20Shaw&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20Fullstack%20Enthusiast&descAlignY=55&descSize=18"/>
+<!-- Typing SVG Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shivam+Shaw+👋;Software+Developer+🚀;AI+%26+GenAI+Builder+🤖;Django+%7C+Next.js+Enthusiast;Open+Source+Advocate+🌟" alt="Typing SVG" />
 
-<!-- Dynamic typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer+%F0%9F%9A%80;AI+%26+GenAI+Builder+%F0%9F%A4%96;Django+%7C+Next.js+%7C+FastAPI+Dev;Open+Source+Advocate+%F0%9F%8C%9F;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</a>
+<br/>
 
 <!-- Social badges -->
-<p>
-  <a href="https://linkedin.com/in/mrshivamshaw"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shivamshaw9005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://mrshivamshaw.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://leetcode.com/mrshivamshaw/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://github.com/mrshivamshaw"><img src="https://komarev.com/ghpvc/?username=mrshivamshaw&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/></a>
-</p>
+<a href="https://linkedin.com/in/mrshivamshaw"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shivamshaw9005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mrshivamshaw.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://leetcode.com/mrshivamshaw/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://github.com/mrshivamshaw"><img src="https://komarev.com/ghpvc/?username=mrshivamshaw&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/></a>
+
+<br/><br/>
+
+<!-- Dev GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif"/>
 
 </div>
 
@@ -37,6 +37,22 @@ const shivam = {
 
 ---
 
+## 💡 What Drives Me
+
+> I love solving **real-world problems** — not just building things for the sake of it.  
+> My go-to stack is **Django + Next.js**, and I enjoy turning messy workflows into clean, automated systems.  
+> Whether it's a RAG-powered AI tool or a full LMS, I care about the *impact* behind the code.
+
+```
+🧩  Real-world problem solver
+🌐  Full-stack thinker (backend-first, frontend-polished)
+🤖  AI integration obsessed — RAG, LLMs, speech-to-action
+⚡  Django + Next.js is my comfort zone
+🛠️  I automate things that shouldn't be manual
+```
+
+---
+
 ## 🚀 Experience
 
 **💼 IT Intern** — [Keysight Technologies](https://www.keysight.com), Gurgaon *(Jan 2026 – Present)*
@@ -46,7 +62,7 @@ const shivam = {
 > AI college counseling platform (Django + React + RAG) · **40% accuracy boost** · SAT analytics dashboard
 
 **⚙️ SDE Intern** — GrowthPurple Technologies, Hyderabad *(Aug 2024 – Jul 2025)*
-> Workflow automation (65% manual work reduction) · No-code LLM platform · AI-powered recruitment with Whisper speech transcription
+> Workflow automation (**65% manual work reduction**) · No-code LLM platform · AI recruitment with Whisper speech transcription (**55% HR efficiency boost**)
 
 ---
 
@@ -66,10 +82,10 @@ const shivam = {
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Databases & Cloud**
 
@@ -89,7 +105,7 @@ const shivam = {
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
 
@@ -97,16 +113,12 @@ const shivam = {
 
 ## 🏆 Featured Projects
 
-<div align="center">
-
 | 🚀 Project | 🛠 Stack | ✨ Highlight |
 |---|---|---|
 | [**AIQueryNet**](https://github.com/mrshivamshaw) | FastAPI · Next.js · Whisper · OpenAI | Voice-to-SQL interface — talk to your database naturally |
 | [**CodeGyaan**](https://github.com/mrshivamshaw) | React · Node.js · MongoDB · Razorpay | Full LMS with video hosting, OTP auth & payments |
 | **No-Code App Builder** | Next.js · Docker · LLM APIs | Prompts → fullstack web apps with one click |
-| **AI Recruitment Platform** | Django · Whisper · CV Analysis | Body behavior + speech AI ranking, 55% HR efficiency boost |
-
-</div>
+| **AI Recruitment Platform** | Django · Whisper · AI Analysis | Speech + body behavior ranking, 55% HR efficiency boost |
 
 ---
 
@@ -117,17 +129,11 @@ const shivam = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrshivamshaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshivamshaw&theme=tokyonight&hide_border=true" />
 
+<br/>
+
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshivamshaw&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
-
----
-
-## 🏅 Achievements & Competitive Programming
-
-- 🥇 **GDGC AEC Competitive Programming Lead** — Selected through multi-round assessments; organized coding competitions & built CP community
-- 💡 **300+ problems solved** on LeetCode & GeeksForGeeks
-- 🎓 **90% in Higher Secondary** | CGPA: **7.52** at AEC
 
 ---
 
@@ -147,6 +153,8 @@ const shivam = {
 
 📧 [shivamshaw9005@gmail.com](mailto:shivamshaw9005@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://mrshivamshaw.vercel.app/) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/mrshivamshaw)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<br/>
+
+*"The best code solves a real problem someone actually has."*
 
 </div>
